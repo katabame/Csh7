@@ -17,7 +17,7 @@ namespace Csh7
         /// </summary>
         /// <param name="appNumber"></param>
         /// <param name="datakey"></param>
-        /// <returns>specified datakey value or exception</returns>
+        /// <returns>specified datakey value or any exception</returns>
         public static string GetInfo(string appNumber, string datakey)
         {
             WebClient client = new WebClient();
@@ -47,7 +47,7 @@ namespace Csh7
         /// <param name="iconURL"></param>
         /// <param name="URL"></param>
         /// <param name="apikey"></param>
-        /// <returns>pushid or exception</returns>
+        /// <returns>pushid or any exception</returns>
         public static string Push(string appNumber, string title, string content, string iconURL, string URL, string apikey)
         {
             var obj = new

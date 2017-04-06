@@ -29,9 +29,11 @@ push7.Push("1145141919810", "test", "This is test.", "http://example.com/icon.pn
 
 for get more infomation about push7 API, please go [here](https://esa-pages.io/p/sharing/3426/posts/203/80ff5595487df69dfe38.html)!
 
-### Nuget?
-Currently No.  
-but WIP.
+### NuGet
+```
+PM> Install-Package Csh7
+```
+[NuGet Gallery](https://www.nuget.org/packages/Csh7)
 
 ### Special Thanks
 * [Push7](https://push7.jp/): Awesome Service!

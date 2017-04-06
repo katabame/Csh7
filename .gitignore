@@ -2,3 +2,7 @@
 Csh7/\.vs/
 
 Csh7/obj/
+
+*.nupkg
+
+*.nuspec
