@@ -6,3 +6,5 @@ Csh7/obj/
 *.nupkg
 
 *.nuspec
+
+Csh7/pack\.bat

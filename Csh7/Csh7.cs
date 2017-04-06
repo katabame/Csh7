@@ -60,7 +60,6 @@ namespace Csh7
             };
 
             var requestBody = DynamicJson.Serialize(obj);
-            Console.WriteLine(requestBody);
 
             WebClient client = new WebClient();
             client.Headers[HttpRequestHeader.ContentType] = "application/json;charset=UTF-8";

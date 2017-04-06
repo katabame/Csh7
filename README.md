@@ -25,8 +25,6 @@ push7.Push("1145141919810", "test", "This is test.", "http://example.com/icon.pn
 // will return pushid or any exception.
 ```
 
-`push7.Push()` is not tested yet, sorry!
-
 for get more infomation about push7 API, please go [here](https://esa-pages.io/p/sharing/3426/posts/203/80ff5595487df69dfe38.html)!
 
 ### NuGet
