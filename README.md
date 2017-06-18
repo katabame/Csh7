@@ -1,4 +1,7 @@
-# Csh7
+# THIS PROJECT IS DEPRECATED!!
+## PUBLISHED UNDER THE WTFPL, DO ANYTHING WHAT YOU WANT.
+
+## Csh7
 Cs + Push7 = Csh7
 
 Csh7 is very simple Push7 library for C# users.
